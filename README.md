@@ -7,15 +7,15 @@ Contributors:  Dutsadi Bunliang, Sebastian Börjeteg, Hamid Gholami and Wiktor I
 Components needed for the project:\
 JTAG ICE 3
 
-2 ATmegaL16
-1 L293
-2 Servomotor 
-1 LCD JM162A
-1 Potentiometer
-1 SRF04 (Ultrasonic sensor)
-2 Analog PS2 Joystick
-2 EXO3 7E1C (External crystal oscillator 14.75MHz)
-2 BlueSMIRF Gold (Bluetooth modem)
+2 ATmegaL16\
+1 L293\
+2 Servomotor\ 
+1 LCD JM162A\
+1 Potentiometer\
+1 SRF04 (Ultrasonic sensor)\
+2 Analog PS2 Joystick\
+2 EXO3 7E1C (External crystal oscillator 14.75MHz)\
+2 BlueSMIRF Gold (Bluetooth modem)\
 
 
 
