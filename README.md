@@ -8,7 +8,7 @@ Components needed for the project:\
 JTAG ICE 3
 
 2 ATmegaL16\
-1 L293\
+1 L293 \
 2 Servomotor\ 
 1 LCD JM162A\
 1 Potentiometer\
