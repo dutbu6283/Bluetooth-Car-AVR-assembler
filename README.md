@@ -9,7 +9,7 @@ JTAG ICE 3
 
 2 ATmegaL16\
 1 L293 \
-2 Servomotor\ 
+2 Servomotor \ 
 1 LCD JM162A\
 1 Potentiometer\
 1 SRF04 (Ultrasonic sensor)\
