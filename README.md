@@ -4,7 +4,7 @@ Intro: This project was the result from the 2019 spring course TSIU51 at Linköp
 
 Contributors:  Dutsadi Bunliang, Sebastian Börjeteg, Hamid Gholami and Wiktor Isaksson. 
 
-Components needed for the project: 
+Components needed for the project:\
 JTAG ICE 3
 
 2 ATmegaL16
