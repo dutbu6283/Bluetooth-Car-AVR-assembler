@@ -7,7 +7,7 @@ Contributors:  Dutsadi Bunliang, Sebastian Börjeteg, Hamid Gholami and Wiktor I
 Components needed for the project: 
 JTAG ICE 3
 
-2 ATmegaL16
+2 ATmegaL16 \n
 1 L293
 2 Servomotor 
 1 LCD JM162A
